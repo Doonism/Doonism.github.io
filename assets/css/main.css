@@ -60,9 +60,6 @@ mark {
 	color: inherit;
 }
 
-.logos {
-
-}
 
 .flex-container1 {
 	display: flex;
@@ -102,17 +99,35 @@ mark {
 	max-width: 100%;
 }
 
-.project1 {
+.container {
+  border-style: solid;
+  border-color: red;
+  padding: 5px 0px;
+}
+
+.project {
 	position: static;
-	width: 10%;
+	width: 100%;
 	left: 6%;
 	top: 30%;
 	max-width: 100%;
 }
 
-.project1text {
+.projectHeading {
 	text-align: center;
-	font-size: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  color: magenta;
+}
+
+.projectSourceCode {
+  text-align: center;
+  color: lightblue;
+}
+
+.subtext, .portfolio {
+ text-align: center;
+ color: lightblue;
 }
 
 .htmlcss {
