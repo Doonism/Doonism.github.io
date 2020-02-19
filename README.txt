@@ -1,6 +1,6 @@
-<h1>Link to Portfolio<h1>
+## Link to Portfolio
 
-<h2>https://doonism.github.io/</h2>
+### https://doonism.github.io/
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
